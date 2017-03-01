@@ -24,7 +24,7 @@
     padding: 10px;
     transition: all 0.2s ease-in-out 0s;
     cursor: pointer;
-    height: 100%;
+    height: auto;
 }
 .ct-blog .inner:hover {
     background-color: #e6e6e6;
